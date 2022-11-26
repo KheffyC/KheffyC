@@ -31,6 +31,6 @@ My motivations are to be apart of a company that helps steer all generations tow
 
 <ul>
   <li> Twitter: https://twitter.com/_khefferson</li>
-  <li> Personal Site: coming soon! </li>
+  <li> Personal Site: https://kheffycervantez.surge.sh </li>
   <li> LinkedIn: https://linkedin.com/in/kheffy-cervantez
 </ul>
