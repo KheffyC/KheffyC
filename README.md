@@ -3,7 +3,7 @@
 Hi, I'm Kheffy - a full stack software developer currently working on open source projects and volunteer work around California. I recently graduated from General Assembly's Software Engineering Immersive Program where I learned MVC frameworks and how to work on full stack projects through their entire lifecycle. On the weekends I'm an entertainment drummer for the LA Kings and an instructor for a non-profit organization based in Corona, CA. 
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=kheffyc&theme=nightowl&show_icons=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheffyc&layout=compact" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheffyc&layout=compact" />
 
 
 ## My Skills
