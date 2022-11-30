@@ -24,7 +24,7 @@ Hi, I'm Kheffy - a full stack software developer currently working on open sourc
 
 ## How I work
 <div>
-My motivations are to be apart of a company that helps steer all generations towards technology. That tends to manifest in helping small businesses create websites for better outreach, or volunteering to help out those who cant afford progression. If theres a way to help, I will. 
+My motivations are to be part of a company that helps steer all generations towards technology. That tends to manifest in helping small businesses create websites for better outreach, or volunteering to help out those who cant afford progression. If theres a way to help, I will. 
 </div>
 
 ## Get in touch 
