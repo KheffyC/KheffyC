@@ -1,6 +1,6 @@
 ## Kheffy Cervantez - @KheffyC
 
-Hi, I'm Kheffy - a full stack software developer currently working on open source projects and volunteer work around California. I am self taught but later when on to graduate from General Assembly's Software Engineering Immersive Program where I learned MVC frameworks and how to work on full stack projects through their entire lifecycle. On the weekends I'm an entertainment drummer for the LA Kings and an instructor for Dark Sky Percussion - a non-profit organization based in Corona, CA. 
+Hi, I'm Kheffy - a full-stack software engineer currently working for JD Heiskell, an enterprise Grain and Feed Factory in California. I am self-taught but later went on to graduate from General Assembly's Software Engineering Program where I learned best practices for development. On the weekends I'm an entertainment drummer for the LA Kings and an instructor for Dark Sky Percussion - a non-profit organization based in Corona, CA. I am currently focused on Ruby on Rails but work on side projects that include AlpineJS and/or React! 
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kheffyc&theme=nightowl&show_icons=true" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheffyc&layout=compact" />
